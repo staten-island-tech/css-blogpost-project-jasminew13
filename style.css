@@ -1,0 +1,40 @@
+.header__title--primary {
+    border: 5px solid rgb(233, 33, 33);
+    position: relative;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+    width: 15%;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+  }
+  .image--1 {
+    border: 3px solid rgb(255, 0, 0);
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+    width: 40%;
+    text-align: center;
+  }
+  .image--2 {
+    border: 3px solid rgb(4, 255, 0);
+    position: relative;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+    width: 40%;
+    text-align: center;
+  }
+  .image--3 {
+    border: 3px solid rgb(85, 0, 255);
+    position: relative;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+    width: 40%;
+    text-align: center;
+  }
